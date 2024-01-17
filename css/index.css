@@ -1,0 +1,50 @@
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    border: 2px  solid black;
+}
+.wrapper {
+    overflow: hidden;
+    width: 100%;
+}
+.contact {
+    float: left;
+    font-size: 24px;
+    width: 50%;
+    height: 96px;
+    background-color: green;
+    border: 2px  solid black;
+    box-sizing: border-box;
+    text-align: center;
+}
+.blog {
+    float: left;
+    font-size: 24px;
+    width: 50%;
+    height: 96px;
+    background-color: blueviolet;
+    border: 2px  solid black;
+    box-sizing: border-box;
+    text-align: center;
+}
+.footer {
+    font-size: 20px;
+    float: left;
+    text-align: center;
+    width: 100%;
+    height: 48px;
+    background-color: cyan;
+    border: 2px  solid black;
+}
+.box {
+    display: block;
+    font-size: 36px;
+    padding: 36px;
+    border: 10px dotted black;
+    margin: 0% 50%;
+    width:  96px;
+    height: 96px;
+    text-align: center;
+    background-color: red;
+}
